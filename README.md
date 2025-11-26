@@ -44,3 +44,5 @@ Extract characters 2 to 5 from the 'Category' column using the MID formula.
 
 5. IF Statements
 Use an IF statement to categorize products with a price greater than $25 as 'High Price' and others as 'Standard Price'.
+
+
